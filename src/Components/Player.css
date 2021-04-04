@@ -1,0 +1,10 @@
+.player img{
+    height: 200px;
+}
+.player .card-title{
+    font-size: 20px;
+}
+.cart-player{
+    border-left: 1px solid rgb(230, 230, 230);
+    min-height: 100vh;
+}
